@@ -7,3 +7,5 @@
 - 💬 Ask me about Flutter or any tech related stuff. 
 - 📫 How to reach me: [Twitter - @manojrijal4real](https://twitter.com/manojrijal4real), [Youtube - @ManzRzlMusic](https://www.youtube.com/channel/UCGHFAF5KciyxcB5htsVaK2Q)
 - ⚡ Fun fact: I love playing Dota2. 
+
+<img src="https://github-readme-stats.vercel.app/api?username=manzrzl&show_icons=true&theme=dark">
