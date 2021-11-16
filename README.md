@@ -3,10 +3,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Youtube
-- 🌱 I’m currently learning ... Flutter
-- 👯 I’m looking to collaborate on ... React Js.
-- 🤔 I’m looking for help with ... Internship
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... @manojrijal4real
-- ⚡ Fun fact: ... Coca-Cola was originally green.
+- 🔭 I’m currently working on Flutter Projects.
+- 🌱 I’m currently learning Flutter.
+- 👯 I’m looking to collaborate on Youtube.
+- 🤔 I’m looking for help with Flutter Internship.
+- 💬 Ask me about Flutter or any tech related stuff. 
+- 📫 How to reach me: Twitter - @manojrijal4real, 
+- ⚡ Fun fact: I love playing Dota2. 
