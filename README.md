@@ -1,7 +1,4 @@
-### Here is what I am working on! 👋
-
-
-Here are some ideas to get you started:
+### Hello, I'm Manoj Rijal! 👋
 
 - 🔭 I’m currently working on Flutter Projects.
 - 🌱 I’m currently learning Flutter.
